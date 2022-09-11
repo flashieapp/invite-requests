@@ -1,2 +1,2 @@
-# invite-requests
-Drop an issue here to request an invite!
+# Invite Requests
+Drop an issue above to request an invite!
